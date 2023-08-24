@@ -1,0 +1,4 @@
+My name is Michael Mata
+I am runnning this script from /home/arq335/courses/cs3424/assignments
+My username is arq335
+I am logged in to fox03
